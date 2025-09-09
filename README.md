@@ -1,3 +1,5 @@
-Barangsiapa membuka file ini, berarti anda gabut. \\
-Kalau anda gabut, anda boleh membuka file ini. \\
-Kalau anda gabut dan membuka file ini, berarti anda membaca sampai part ini.
+1. Barangsiapa membuka file ini, berarti anda gabut.
+
+2. Kalau anda gabut, anda boleh membuka file ini.
+
+3. Kalau anda gabut dan membuka file ini, berarti anda membaca sampai part ini.
